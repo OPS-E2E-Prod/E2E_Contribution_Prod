@@ -17,11 +17,11 @@
       "template_folder": "_themes"
     }
   ],
-  "notification_subscribers": ["branchBB":"branchAA"],
+  "notification_subscribers": [],
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
-  "contribution_branch_mappings": {"testBranch4": "testBranch3"},
+  "contribution_branch_mappings": {"branchBB":"branchAA"},
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
