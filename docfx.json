@@ -30,11 +30,11 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/E2E_Contribution/breadcrumb/toc.json",
+      "breadcrumb_path": "/E2E_Contribution_DocfxV3/breadcrumb/toc.json",
       "extendBreadcrumb": true
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "E2E_Contribution"
+    "dest": "E2E_Contribution_DocfxV3"
   }
 }
